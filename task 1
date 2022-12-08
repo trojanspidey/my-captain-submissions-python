@@ -1,4 +1,4 @@
-print ("Task 1:")
+print("Task 1:")
 name = input("Please enter your name: ")
 print("Hello!" + name)
 x = float(input("Enter the radius of the circle: "))
